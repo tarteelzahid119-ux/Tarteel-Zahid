@@ -11,5 +11,5 @@ About Me
 
 Connect With Me
 
-- LinkedIn:www.linkedin.com/in/tarteel-zahid-6a901a382
+- LinkedIn:https://pk.linkedin.com/in/tarteel-zahid-6a901a382?trk=public_profile-settings_edit-profile-content
 - GitHub: https://github.com/tarteelzahid119-ux
